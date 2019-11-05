@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "张锦",
+      "phone": "13788933289",
+      "email": "1275337437@qq.com",
+      "education": "大专",
+      "graduationschool": "上海立达学院",
+      "profession": "软件技术",
+      "profile": "帅"
+    }
+  ]
+}
